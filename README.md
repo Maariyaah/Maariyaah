@@ -28,8 +28,8 @@ I grew up in Lisbon, Portugal and moved to the UK 10 years ago where I  began my
 </div>
 
 ### Check out my latest projects!
-<div class="image-container">
 
+<div class="image-container">
 [<img src='https://github.com/Maariyaah/Maariyaah/blob/main/Picture%20Metatag.png' alt='fitseek' height='100' width='100'>](https://www.fitseek.co.uk//)
 
 [<img src='https://github.com/Maariyaah/Maariyaah/blob/main/Chefly.png' alt='chefly' height='100' width='100'>](https://cheflybnb-9551dd5074b5.herokuapp.com//)
