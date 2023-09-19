@@ -1,6 +1,6 @@
 ![Banner](MaariyaahBanner2.jpg)
 
-<div style="display: flex; justify-content: center;">
+<div class="container text-center">
  
 
 ## Hi there, I'm Maariyaah!
