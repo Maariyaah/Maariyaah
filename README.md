@@ -28,8 +28,7 @@ I grew up in Lisbon, Portugal and moved to the UK 10 years ago where I  began my
 
 # Connect with me on: 
 
-[<img ![image](https://github.com/Maariyaah/Maariyaah/assets/139125011/f59fb7ed-880d-4392-bdf6-d2168922b178)
-src='https://github.com/Maariyaah/Maariyaah/blob/main/linkedin.png' alt='linkedin' mt-4 height='100'>](https://www.linkedin.com/in/maariyaah-afzal//)  
+[<img src='https://github.com/Maariyaah/Maariyaah/blob/main/linkedin.png' alt='linkedin' mt-4 height='100'>](https://www.linkedin.com/in/maariyaah-afzal//)  
 
 
 
