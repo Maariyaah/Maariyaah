@@ -8,6 +8,7 @@ Skills:
 ![image](https://github.com/Maariyaah/Maariyaah/blob/main/JavaScript-Logo.png)
 
 Connect with me on: 
+[<img src='![linkedin](https://github.com/Maariyaah/Maariyaah/blob/main/linkedin.png)' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/maariyaah-afzal//)  
 
 ![linkedin](https://github.com/Maariyaah/Maariyaah/blob/main/linkedin.png)
 
