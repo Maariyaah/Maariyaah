@@ -1,11 +1,14 @@
-(https://github.com/Maariyaah/Maariyaah/blob/main/MaariyaahBanner.png)
-[Banner here](https://github.com/Maariyaah/Maariyaah/blob/main/MaariyaahBanner.png)
+![Banner]([link-to-your-image.png](https://github.com/Maariyaah/Maariyaah/blob/main/MaariyaahBanner.png))
+
 ### Hi there, I'm Maariyaah!
 
 I am a chartered insurance professional that has now pivoted towards the world of tech! I recently completed Le Wagon's Web Development bootcamp, mastering various new languages and technologies with the drive to pursue a new career. Committed to leveraging this new skill set alongside my enthusiasm and curiosity to bring innovation to a new industry!
 
-[image](https://github.com/Maariyaah/Maariyaah/assets/139125011/1710a9c8-e1c3-4f71-87a2-078c14898b83)
 
+
+Skills:
+
+*
 
 <!--
 **Maariyaah/Maariyaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
