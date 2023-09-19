@@ -1,4 +1,4 @@
-![Banner]([link-to-your-image.png](https://github.com/Maariyaah/Maariyaah/blob/main/MaariyaahBanner.png))
+![Banner]([link-to-your-image.png](MaariyaahBanner.png))
 
 ### Hi there, I'm Maariyaah!
 
