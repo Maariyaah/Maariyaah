@@ -9,8 +9,7 @@ Skills:
 
 
 Connect with me on: 
-![Alt Text](Image URL)
-https://github.com/Maariyaah/Maariyaah/blob/main/JavaScript-Logo.png![image](https://github.com/Maariyaah/Maariyaah/assets/139125011/a699066b-e83c-4e0e-ae37-e970d9fc10fa)
+![image](https://github.com/Maariyaah/Maariyaah/blob/main/JavaScript-Logo.png)
 
 
 
