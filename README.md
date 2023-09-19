@@ -10,8 +10,7 @@ Skills:
 
 Please feel free to reach out to me:
 
-[<img src='https://github.com/Maariyaah/Maariyaah/blob/main/linkedin.png![image](https://github.com/Maariyaah/Maariyaah/assets/139125011/f76a5b94-5750-447d-b643-18a7b544ba8a)
-' alt='linkedin' height='20'>](https://www.linkedin.com/in/maariyaah-afzal//) 
+[<img src='https://github.com/Maariyaah/Maariyaah/assets/139125011/f76a5b94-5750-447d-b643-18a7b544ba8a' alt='linkedin' height='20'>](https://www.linkedin.com/in/maariyaah-afzal//) 
 
 
 <!--
