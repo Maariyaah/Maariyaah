@@ -28,9 +28,15 @@ I grew up in Lisbon, Portugal and moved to the UK 10 years ago where I  began my
 <img src='https://github.com/Maariyaah/Maariyaah/blob/main/sql.png' alt='sql' height='50' width='50'> 
     
 </div>
-    
+
+### Check out my latest projects!
+
+[<img src='https://github.com/Maariyaah/Maariyaah/blob/main/Picture%20Metatag.png' alt='fitseek' height='50' width='50'>](https://www.fitseek.co.uk//)
+
+[<img src='https://github.com/Maariyaah/Maariyaah/blob/main/Chefly.png' alt='chefly' height='50' width='50'>](https://cheflybnb-9551dd5074b5.herokuapp.com//)
+
 ### Connect with me on: 
     
-[<img src='https://github.com/Maariyaah/Maariyaah/blob/main/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/maariyaah-afzal//) 
+[<img src='https://github.com/Maariyaah/Maariyaah/blob/main/linkedin.png' alt='linkedin' height='60'>](https://www.linkedin.com/in/maariyaah-afzal//) 
     
 </div>
