@@ -8,9 +8,10 @@ Skills:
 [<img src='![js](https://github.com/Maariyaah/Maariyaah/assets/139125011/f072403a-0806-403a-9bf8-1c086d0e8a68)' alt='js' height='40'>]
 
 
-Please feel free to reach out to me:
+Connect with me on: 
+![Alt Text](Image URL)
+https://github.com/Maariyaah/Maariyaah/blob/main/JavaScript-Logo.png![image](https://github.com/Maariyaah/Maariyaah/assets/139125011/a699066b-e83c-4e0e-ae37-e970d9fc10fa)
 
-[<img src='https://github.com/Maariyaah/Maariyaah/assets/139125011/f76a5b94-5750-447d-b643-18a7b544ba8a' alt='linkedin' height='20'>](https://www.linkedin.com/in/maariyaah-afzal//) 
 
 
 <!--
