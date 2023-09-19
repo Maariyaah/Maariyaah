@@ -1,4 +1,4 @@
-![Banner]([link-to-your-image.png](MaariyaahBanner.png))
+![Banner](MaariyaahBanner2.jpg)
 
 ## Hi there, I'm Maariyaah!
 
