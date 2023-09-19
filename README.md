@@ -1,6 +1,6 @@
 ![Banner](MaariyaahBanner2.jpg)
 
-<div class= "container justify-content-center">
+<div class= "container d-flex">
 
 ## Hi there, I'm Maariyaah!
     
