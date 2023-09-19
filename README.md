@@ -1,6 +1,6 @@
 ![Banner](MaariyaahBanner2.jpg)
 
-<div class="container text-center">
+<div class="centered-container">
  
 
 ## Hi there, I'm Maariyaah!
