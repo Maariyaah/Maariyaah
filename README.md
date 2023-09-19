@@ -5,7 +5,8 @@
 I grew up in Lisbon, Portugal and moved to the UK 10 years ago where I  began my career in the insurance world in London. After achieving my goal of becoming a chartered insurance professional, I decided to pivoted towards the world of tech! I  completed Le Wagon's Web Development bootcamp with the drive to pursue a new career. I am now committed to leveraging this new skill set alongside my enthusiasm and curiosity to bring innovation to a new industry!
 
 Skills:
-![image](https://github.com/Maariyaah/Maariyaah/blob/main/JavaScript-Logo.png)
+[<img src='https://github.com/Maariyaah/Maariyaah/blob/main/JavaScript-Logo.png' alt='js' height='200'>](https://www.linkedin.com/in/maariyaah-afzal//)  
+
 
 Connect with me on: 
 
