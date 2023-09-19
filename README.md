@@ -9,7 +9,7 @@ Skills:
 
 Connect with me on: 
 
-[<img src='https://github.com/Maariyaah/Maariyaah/blob/main/linkedin.png' alt='linkedin' height='80'>](https://www.linkedin.com/in/https://www.linkedin.com/in/maariyaah-afzal//)  
+[<img src='https://github.com/Maariyaah/Maariyaah/blob/main/linkedin.png' alt='linkedin' height='200'>](https://www.linkedin.com/in/maariyaah-afzal//)  
 
 ![linkedin](https://github.com/Maariyaah/Maariyaah/blob/main/linkedin.png)
 
